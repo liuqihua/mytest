@@ -13,6 +13,7 @@ public class Demo {
         System.out.println("helloWord!");
         System.out.println("你好!");
         System.out.println("你好!");
+        System.out.println("你好!");
         say();
     }
     
